@@ -1,3 +1,5 @@
+# Introducing DBpedia Spotlight and WideNet for Digital Humanities
+
 This tutorial provides a hands-on experience with semantic annotations for selecting text sources from large corpora. While many humanist scholars are familiar with annotation during the analysis of their selected source texts, we invite participants to discover the utility of semantic annotations to identify documents that are relevant to their research question.
 
 ## Introduction
