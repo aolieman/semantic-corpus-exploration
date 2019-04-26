@@ -1,4 +1,3 @@
-# Introducing DBpedia Spotlight and WideNet for Digital Humanities
 
 This tutorial provides a hands-on experience with semantic annotations for selecting text sources from large corpora. While many humanist scholars are familiar with annotation during the analysis of their selected source texts, we invite participants to discover the utility of semantic annotations to identify documents that are relevant to their research question.
 
@@ -34,15 +33,15 @@ Olieman, A., Beelen, K., Lange, M. van, Kamps, J., and Marx, M. (2017). Good App
 Olieman, A., Beelen, K., and Kamps, J. (2017). Finding Talk About the Past in the Discourse of Non-Historians. *Joint Proceedings of SEMANTiCS 2017 Workshops: Drift-a-LOD*. [ceur-ws:2063/dal2](http://ceur-ws.org/Vol-2063/dal-paper2.pdf). [arXiv:1710.01127](https://arxiv.org/abs/1710.01127).
 
 ## Instructor Information
-**Alex Olieman** <olieman@uva.nl>
+**Alex Olieman** <<olieman@uva.nl>>
 
 Alex Olieman is a PhD candidate at the Institute for Logic, Language, and Computation at the University of Amsterdam. His research focuses on the application of information extraction, specifically entity linking, to improve the accessibility of information and data. Alex is interested in working with large open datasets, and has done much of his work with government archives. In addition to his research work, he holds a position as an R&D engineer for Qollab, a communication and knowledge sharing platform. He also is an avid open source software contributor, and is an active participant in the DBpedia community.
 
-**Kaspar Beelen** <K.Beelen@uva.nl>
+**Kaspar Beelen** <<K.Beelen@uva.nl>>
 
 Kaspar Beelen is an assistant professor of Digital Humanities at the University of Amsterdam. After completing his PhD at the University of Antwerp (under the supervision of Marnix Beyen), he worked on the Digging into Linked Parliamentary Data Project at the University of Toronto and the University of Amsterdam. He focuses on computational history, more specifically on the use of text-mining for political and cultural history. His main areas of interest include: gender and politics, the history of political representation and the evolution of affective discourse.
 
-**Jaap Kamps** <kamps@uva.nl>
+**Jaap Kamps** <<kamps@uva.nl>>
 
 Dr. Ir. Jaap Kamps is an associate professor of information retrieval at the University of Amsterdam, PI of a stream of large research projects on information access funded by NWO and the European Union, vice-chair of the ACM SIG-IR, organizer of evaluation efforts at TREC and CLEF, and a prolific organizer of conferences and workshops. His research interests span all facets of information storage and retrieval – from user-centric to system-centric, and from basic research to applied research. A common element is the combination of textual information with additional structure, such as document structure, Web-link structure, and/or contextual information, such as meta-data, anchors, tags, clicks, or profiles.
 
