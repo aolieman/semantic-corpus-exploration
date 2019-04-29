@@ -35,7 +35,7 @@ Olieman, A., Beelen, K., and Kamps, J. (2017). Finding Talk About the Past in th
 ## Instructor Information
 **Alex Olieman** <<olieman@uva.nl>>
 
-Alex Olieman is a PhD candidate at the Institute for Logic, Language, and Computation at the University of Amsterdam. His research focuses on the application of information extraction, specifically entity linking, to improve the accessibility of information and data. Alex is interested in working with large open datasets, and has done much of his work with government archives. In addition to his research work, he holds a position as an R&D engineer for Qollab, a communication and knowledge sharing platform. He also is an avid open source software contributor, and is an active participant in the DBpedia community.
+Alex Olieman is a PhD candidate at the Institute for Logic, Language, and Computation at the University of Amsterdam. His research focuses on the application of information extraction, specifically entity linking, to improve the accessibility of information and data. Alex is interested in working with large open datasets, and has done much of his work with government archives. In addition to his research work, he holds a position as an R&D engineer for Qollap, a communication and knowledge sharing platform. He also is an avid open source software contributor, and is an active participant in the DBpedia community.
 
 **Kaspar Beelen** <<K.Beelen@uva.nl>>
 
