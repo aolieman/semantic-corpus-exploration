@@ -1,7 +1,7 @@
 
 This tutorial provides a hands-on experience with semantic annotations for selecting text sources from large corpora. While many humanist scholars are familiar with annotation during the analysis of their selected source texts, we invite participants to discover the utility of semantic annotations to identify documents that are relevant to their research question.
 
-**When**: Monday 8 July 2019, 9:00 - 13:00 \
+**When**: Monday 8 July 2019, 9:00 - 13:00 <br/>
 **Where**: [Digital Humanities Conference](https://dh2019.adho.org/registration/), Utrecht, the Netherlands
 
 ## Introduction
