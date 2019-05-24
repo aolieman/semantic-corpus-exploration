@@ -1,6 +1,9 @@
 
 This tutorial provides a hands-on experience with semantic annotations for selecting text sources from large corpora. While many humanist scholars are familiar with annotation during the analysis of their selected source texts, we invite participants to discover the utility of semantic annotations to identify documents that are relevant to their research question.
 
+**When**: Monday 8 July 2019, 9:00 - 13:00 \
+**Where**: [Digital Humanities Conference](https://dh2019.adho.org/registration/), Utrecht, the Netherlands
+
 ## Introduction
 Digitization efforts by libraries and archives have greatly expanded the potential of historical and diachronic corpora to be used as research objects. Whereas paper-based research favors a selection of sources that are known *a priori* to be relevant, the digitization of sources has opened up ways to find and identify source texts that are relevant beyond the “usual suspects.” Full-text search has been the primary means to retrieve and select a suitable set of sources, e.g. as a research corpus for close reading. Achieving a balanced and defensible selection of sources, however, can be highly challenging when delimiting sources with keyword-based queries. It, too often, requires scholars to handcraft elaborate queries which incorporate long synonym lists and enumerations of named entities (Huistra and Mellink, 2016).
 
