@@ -16,14 +16,14 @@ To conclude this part, participants will engage with a sequence of exercises usi
 
 ### Resources
 
--  [Excercises notebook](https://colab.research.google.com/drive/1wXmmHUlvo35ikUcYMGN1hvgsIlFR6R4Q)
+-  [Entity Linking exercises notebook](https://colab.research.google.com/drive/1wXmmHUlvo35ikUcYMGN1hvgsIlFR6R4Q)
 
 ## Exploratory Semantic Search with WideNet
 The second part of the tutorial engages with exploratory semantic search from the angle of tool criticism. We explore WideNet, a tool based on entity-linking that facilitates the exploration of complex concepts in longitudinal data. Even though linking technologies such as Spotlight remain imperfect, they can be leveraged for useful research applications. WideNet has been created to assist researchers with investigating references to complex concepts in large data sets (Olieman, Beelen, and Kamps, 2017). Participants learn to apply semantically-enhanced search for the purpose of corpus building (e.g. to find all documents related to the "French Revolution" or the "Dutch Golden Age") and investigate the underlying technology that enables them to perform such intricate and comprehensive queries. We discuss how entity-based search solves some of the (usability) limitations of traditional keyword search, but we also attract attention to issues that arise with semantic search.
 
 ### Resources
 
--  [Introducing WideNet + exercise](https://colab.research.google.com/drive/10MCCno4IbzJD7vv5j9VRupkga2CqKHae)
+-  [Introducing WideNet + exercise notebook](https://colab.research.google.com/drive/10MCCno4IbzJD7vv5j9VRupkga2CqKHae)
 
 ## DIY Project
 In the final part of the tutorial, we will invite participants to follow along with an (online) Jupyter notebook that implements a lightweight entity linking and document selection workflow. It processes text with DBpedia Spotlight, and stores the resulting annotations in an embedded database. The search target, a complex concept, is resolved into concrete entities by performing SPARQL queries against the DBpedia endpoint. We will take the time to inspect the intermediate output and data structures of these steps. At the end of the notebook, the annotations on the input text are filtered and faceted by the result of the SPARQL queries, leading to a set of potentially-relevant search results.
@@ -34,7 +34,7 @@ For the remaining time, two options are provided to participants. They may choos
 
 -  [Stand-alone SEC notebook](https://colab.research.google.com/drive/1ViR0ojEPaUPGVVDXblNBD1560v1mINfQ)
 -  [WideNet demo UI](https://widenet.e.hum.uva.nl/dh2017/)
--  [Exploring WideNet annotations](https://colab.research.google.com/drive/16tlY9JsS2G0bZOXNcYNC3mJPA6S5RSl5)
+-  [Exploring WideNet annotations notebook](https://colab.research.google.com/drive/16tlY9JsS2G0bZOXNcYNC3mJPA6S5RSl5)
 
 **Target audience**: Scholars in the fields of Historical, Heritage, Memory, and Literary Studies who wish to explore larger text corpora beyond the traditional keyword search. The tutorial also targets stakeholders who are interested in understanding humanities research practices in digital environments, such as archivists, librarians, and infrastructure providers.
 
