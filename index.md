@@ -36,6 +36,12 @@ For the remaining time, two options are provided to participants. They may choos
 -  [WideNet demo UI](https://widenet.e.hum.uva.nl/dh2017/)
 -  [Exploring WideNet annotations notebook](https://colab.research.google.com/drive/16tlY9JsS2G0bZOXNcYNC3mJPA6S5RSl5)
 
+
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4FcD9rpFZ-439eTXwODZeXSfadUzM_CD2hXlbbP_6ZVW9ZDvmnuZ06aM0K_ib_WV_HBrLNOyM4wS2/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 **Target audience**: Scholars in the fields of Historical, Heritage, Memory, and Literary Studies who wish to explore larger text corpora beyond the traditional keyword search. The tutorial also targets stakeholders who are interested in understanding humanities research practices in digital environments, such as archivists, librarians, and infrastructure providers.
 
 ## Bibliography
